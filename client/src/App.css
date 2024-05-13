@@ -1,0 +1,117 @@
+@font-face {
+
+  font-family: 'Montserrat-Bold';
+
+  src: local('Montserrat-Bold'), url(fonts/Montserrat-Bold.ttf) format('truetype');
+
+}
+
+@font-face {
+
+  font-family: 'Montserrat-Regular';
+
+  src: local('Montserrat-Regular'), url(fonts/Montserrat-Regular.ttf) format('truetype');
+
+}
+
+
+h1, h2, h3 {
+  font-family: 'Montserrat-Bold';
+  padding: 0 2rem;
+
+
+}
+
+.font{
+  font-family: 'Montserrat-Regular';
+  font-size: 20.5px;
+
+}
+.font-footer{
+  font-family: 'Montserrat-Regular';
+font-size: 15px;
+
+}
+
+.font-about{
+ font-family: 'Montserrat-Regular'; 
+  font-size: 34px;
+  color: rgb(255, 255, 255);
+}
+
+.about{
+  padding: 5.5px;
+}
+
+.background {
+  background-image: url('https://images.wallpaperscraft.com/image/single/boat_mountains_lake_135258_3840x2400.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.home{
+  padding: 11.83rem;
+  font-family: 'Montserrat-Regular'; 
+}
+
+
+.header-text{
+  padding:  2rem;
+  height: 58px;
+  font-size: 50px;
+  color: #ffffff;
+  font-family: 'Montserrat-Regular';
+}
+
+li{
+  padding: 15px;
+  display: flex;
+  padding-right: 3rem;
+  text-align :right;
+}
+
+.header{
+  background-color: #666666;
+  background-image: url('https://images.wallpaperscraft.com/image/single/clouds_sky_porous_133455_1024x768.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.menu {
+  display: flex;
+  font-size: 32px;
+  color: rgb(255, 247, 247);
+  font-family: 'Montserrat-Regular';
+  padding: 2rem;
+}
+
+.texe-color {
+  color: rgb(87, 87, 87);
+  font-family: 'Montserrat-Regular';
+}
+
+.message-text {
+  color: rgb(248, 115, 115);
+  margin: 10px;
+  font-family: 'Montserrat-Regular';
+  font-size: 16px;
+}
+
+.image{
+  border-radius: 20%;
+  width: 380px;
+  margin: 77px;
+}
+
+.font-form {
+  padding: 0 4rem;
+  font-family:'Montserrat-Regular';
+}
+
+.typingeffect {
+  font-size: 48px;
+}
+
+
